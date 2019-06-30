@@ -7,7 +7,7 @@ class EsaNippou < Formula
   version ESA_NIPPOU_VERSION
 
   url "https://github.com/mizukmb/esa-nippou/releases/download/#{ESA_NIPPOU_VERSION}/esa-nippou_#{ESA_NIPPOU_VERSION}_x86_64-apple-darwin.zip"
-  sha256 '7fd8138c0640f578d7b85d56e50a97dde6336f44555f035832ae5b3eb53bd6e8'
+  sha256 '73f51e5f3068a045b9c2368d8e52778b3bf5725d12b839aadfd65637d4628979'
   
   def install
     bin.install 'esa-nippou'
