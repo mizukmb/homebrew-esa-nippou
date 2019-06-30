@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-ESA_NIPPOU_VERSION = 'v1.0.2'
+ESA_NIPPOU_VERSION = 'v1.1.0'
 
 class EsaNippou < Formula
   homepage 'https://github.com/mizukmb/esa-nippou'
